@@ -1,0 +1,23 @@
+{
+	"ids": [
+		"bitcoin",
+		"ethereum",
+		"ripple",
+		"tether",
+		"binancecoin",
+		"solana",
+		"dogecoin",
+		"cardano"
+	],
+	"symbols": [
+		"btc",
+		"eth",
+		"xrp",
+		"usdt",
+		"bnb",
+		"sol",
+		"doge",
+		"ada"
+	],
+	"n_days": 7
+}
